@@ -17,8 +17,9 @@
     "fmt": "npm run _fmt -- --write"
   },
   "dependencies": {
+    "@aptos-labs/aptos-cli": "^1.0.2",
     "@aptos-labs/ts-sdk": "^2.0.0",
-    "@aptos-labs/wallet-adapter-react": "^7.0.4",
+    "@aptos-labs/wallet-adapter-react": "^3.0.6",
     "@radix-ui/react-collapsible": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-dropdown-menu": "^2.1.1",
@@ -31,7 +32,7 @@
     "lucide-react": "^0.383.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^7.7.1",
+    "react-router-dom": "^6.26.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
   },
@@ -52,7 +53,7 @@
     "tailwindcss": "^3.4.3",
     "tree-kill": "1.2.2",
     "typescript": "^5.2.2",
-    "vercel": "^44.6.6",
+    "vercel": "^32.0.1",
     "vite": "^7.0.6",
     "vite-plugin-notifier": "^0.1.5"
   }
