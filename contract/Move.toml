@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-message_board_addr = "_"
+my_addr = "0x71106accd73af63199bff996f6ea9a57e37671fc4c1295c01a0128a86cb18067"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
